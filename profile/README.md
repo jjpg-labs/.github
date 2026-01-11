@@ -1,7 +1,7 @@
 # 🔬 jjpg-labs
 
 ### 👨‍💻 Jose Juan Perez Gonzalez
-*Software Developer & Tech Explorer*
+**Fullstack Developer | TypeScript Specialist**
 
 ---
 
@@ -10,32 +10,39 @@
     <td width="50%" valign="top">
       <h3>🚀 Sobre el laboratorio</h3>
       <p>
-        Bienvenido a <b>jjpg-labs</b>. Este es mi espacio de experimentación técnica y desarrollo personal. 
-        Aquí centralizo arquitecturas limpias, utilidades de código abierto y mis proyectos más ambiciosos.
+        Bienvenido a <b>jjpg-labs</b>. Aquí desarrollo soluciones robustas centradas en el ecosistema <b>TypeScript</b>. 
+        Mi enfoque se basa en la creación de aplicaciones escalables, desde interfaces rápidas con Next.js hasta arquitecturas modulares en el lado del servidor con NestJS.
       </p>
       <ul>
-        <li>🏗️ <b>Enfoque:</b> Escalabilidad y código limpio.</li>
-        <li>🛠️ <b>Estado:</b> Desarrollando herramientas de automatización.</li>
-        <li>🎯 <b>Meta:</b> Contribuir al ecosistema Open Source.</li>
+        <li>🏗️ <b>Arquitectura:</b> Microservicios y Monolitos Modulares.</li>
+        <li>⚡ <b>Frontend:</b> SSR, SSG y optimización de Web Vitals.</li>
+        <li>🛠️ <b>Backend:</b> APIs RESTful y GraphQL con TypeORM/Prisma.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🛠️ Stack Tecnológico</h3>
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <br />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <br />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Estadísticas de Actividad
+### 📈 Actividad del Laboratorio
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjpg-labs&show_icons=true&theme=transparent&hide_border=true" alt="Estadísticas de jjpg-labs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jjpg-labs&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de jjpg-labs" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjpg-labs&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
@@ -47,5 +54,5 @@
 
 ---
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"Thinking in components, architecting in modules."</i>
 </p>
